@@ -18,7 +18,7 @@ Si estás siendo acosado, ves a alguien que lo está siendo o tienes alguna otra
 Los miembros de la organización estarán encantados de ayudar a los participantes a contactar con la seguridad del sitio o la policía local, proveer escolta o asistir de otra manera para ayudar a quienes están siendo acosados a sentirse seguros durante la conferencia.
 Valoramos tu asistencia. Esperamos que los participantes sigan estas reglas durante la conferencia.
 
-Source and credit: https://www.mariapitadefcon.es/fixed/conducta/ and them from http://wtm.gdgmadrid.es/code_of_conduct.html
+Source and credit: https://www.mariapitadefcon.es/fixed/conducta/ 
 
 Original source and credit: http://2012.jsconf.us/#/about & The Ada Initiative
 
