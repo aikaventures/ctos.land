@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Código de conducta
+Requerimos que todos los asistentes, ponentes, patrocinadores y voluntarios de nuestra conferencia estén de acuerdo con el siguiente código de conducta.
+La organización se encargará de que se cumpla durante el evento, esperamos la colaboración de todos los participantes para ayudar a construir un entorno seguro para todo el mundo.
 
-You can use the [editor on GitHub](https://github.com/aikaventures/ctos.land/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### La versión rápida
+Queremos que esta conferencia sea una experiencia libre de acoso para todo el mundo sin importar su género, su identidad o expresión de género, edad, orientación sexual, discapacidad, aspecto físico, raza o religión. No toleraremos el acoso de ningún tipo a ningún participante.
+El lenguaje o las imágenes sexuales no son apropiadas para el evento, incluyendo las charlas, Twitter y cualquier otro medio de comunicación.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Los participantes que violen estas reglas podrán ser sancionados o expulsados de la conferencia a discreción de los organizadores
 
-### Markdown
+### La versión no tan rápida
+Incluímos como acoso los comentarios verbales ofensivos relacionados con el género, la identidad o expresión de género, edad, orientación sexual, discapacidad, apariencia física, raza, religión, imágenes sexuales en espacios públicos, intimidación deliberada, acecho, persecución, el acoso con fotografías o vídeos, la interrupción sostenida de charlas u otros eventos, el contacto físico inapropiado y la atención sexual indeseada.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Los patrocinadores también se encuentran sujetos a esta política. En concreto, los patrocindores no deben usar imágenes, actividades u otro material sexualizado. El personal (incluyendo los voluntarios) no debe utilizar ropa/uniformes/disfraces sexualizados, o crear de ninguna otra forma un entorno sexualizado.
 
-```markdown
-Syntax highlighted code block
+Si un participante tiene un comportamiento de acoso, los organizadores de la conferencia podrán tomar cualquier acción que consideren apropiada, incluyento advertir al infractor o su expulsión de la conferencia.
+Si estás siendo acosado, ves a alguien que lo está siendo o tienes alguna otra preocupación, por favor contacta con algún miembro de la organización inmediatamente.
+Los miembros de la organización estarán encantados de ayudar a los participantes a contactar con la seguridad del sitio o la policía local, proveer escolta o asistir de otra manera para ayudar a quienes están siendo acosados a sentirse seguros durante la conferencia.
+Valoramos tu asistencia. Esperamos que los participantes sigan estas reglas durante la conferencia.
 
-# Header 1
-## Header 2
-### Header 3
+Source and credit: https://www.mariapitadefcon.es/fixed/conducta/ and them from http://wtm.gdgmadrid.es/code_of_conduct.html
 
-- Bulleted
-- List
+Original source and credit: http://2012.jsconf.us/#/about & The Ada Initiative
 
-1. Numbered
-2. List
+Please help by translating or improving: http://github.com/leftlogic/confcodeofconduct.com
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aikaventures/ctos.land/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This work is licensed under a Creative Commons Attribution 3.0 Unported License
